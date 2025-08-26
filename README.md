@@ -28,7 +28,9 @@
 - **Reactions:** Emoji responses
 - 
 <img width="390" height="844" alt="Group 427323768" src="https://github.com/user-attachments/assets/f925bbaa-5118-4a7b-9694-0d35bc9afdca" />
-![WhatsApp Image 2025-08-26 at 4 40 47 PM](https://github.com/user-attachments/assets/8cd81005-add8-46e4-a7be-08ddf6ab8ad0)
+
+![WhatsApp Image 2025-08-26 at 4 40 47 PM](https://github.com/user-attachments/assets/02520f9f-95a7-46be-ac61-e95972598410)
+
 
 ### 🛡️ Privacy Controls
 - **Smart Blocking:** Block unwanted users  
